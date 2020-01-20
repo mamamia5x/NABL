@@ -1,7 +1,7 @@
 # NABL
 To install this league, just add a new league in ZenGm and where it says Customize, click it and press add url. Then add this url - https://raw.githubusercontent.com/mamamia5x/NABL/master/V11.JSON  
 That's it. Enjoy (also, shuffling rosters is a good idea).  
-Check out the reddit. reddit.com/r/NABL
+Check out the reddit. https://reddit.com/r/NABL
 
 # Info
 This league is 72 teams and is in 13 different countries. Any issues, say it in the issues tab.
