@@ -1,5 +1,5 @@
 # NABL
-To install this league, just add a new league in ZenGm and where it says Customize, click it and press add url. Then add this url - https://raw.githubusercontent.com/mamamia5x/NABL/master/V1.JSON  
+To install this league, just add a new league in ZenGm and where it says Customize, click it and press add url. Then add this url - https://raw.githubusercontent.com/mamamia5x/NABL/master/V11.JSON  
 That's it. Enjoy (also, shuffling rosters is a good idea).  
 
 # Info
@@ -12,4 +12,5 @@ For some reason, an error will happen when trying to upload the file. You can st
 Only error I can tell is that sometimes the Charleston Riverdogs logo is the Hornets logo, but sometimes it's the correct logo.
 
 # Update's
-V.1.0 - Released
+* V.1.1 - Bug fix, less required players. Planning on adding players.
+* V.1.0 - Released
