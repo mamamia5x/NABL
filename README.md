@@ -4,7 +4,7 @@ That's it. Enjoy (also, shuffling rosters is a good idea).
 
 # Info
 This league is 72 teams and is in 13 different countries. Any issues, say it in the issues tab.
-You can see a map with all the teams on it [here](https://drive.google.com/open?id=1ahRyz2DOTRZCVM2ZDE-fDRvoY4tZre7F&usp=sharing)  
+You can see a map with all the teams on it [here](https://drive.google.com/open?id=1ahRyz2DOTRZCVM2ZDE-fDRvoY4tZre7F&usp=sharing).  
 
 # Error
 For some reason, an error will happen when trying to upload the file. You can still **play**, but I don't know the effects of it. The file is an export from the game, I didn't actually program the JSON file. 
