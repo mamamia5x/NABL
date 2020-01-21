@@ -1,5 +1,5 @@
 # NABL
-To install this league, just add a new league in ZenGm and where it says Customize, click it and press add url. Then add this url - https://raw.githubusercontent.com/mamamia5x/NABL/master/V12.JSON  
+To install this league, just add a new league in ZenGm and where it says Customize, click it and press add url. Then add this url - https://raw.githubusercontent.com/mamamia5x/NABL/master/File.JSON  
 That's it. Enjoy (also, shuffling rosters is a good idea).  
 Check out the reddit. https://reddit.com/r/NABL
 
